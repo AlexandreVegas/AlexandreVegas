@@ -1,5 +1,5 @@
 <h1 align="center">Oi,👋, Eu sou Alexandre Vegas</h1>
-<h3 align="center">Um desenvolvedor de Software e infraestrutura de redes</h3>
+<h3 align="center">Um desenvolvedor de Software e analista de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Ruby, Machine Learning e Cloud**
 
