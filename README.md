@@ -1,82 +1,162 @@
-<h1 align="center">Oi 👋, eu sou Alexandre Vegas</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor de Software e Analista de Dados</h3>
+# 👋 Olá, eu sou Alexandre Vegas
 
-- 🌱 Atualmente estou aprendendo **Ruby, Machine Learning e Cloud**
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software;Analista+de+Dados;PHP+%7C+Laravel+%7C+Python+%7C+SQL;Dados%2C+Automa%C3%A7%C3%A3o+e+Desenvolvimento;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
 
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 💻 Desenvolvedor de Software e Analista de Dados
+- 🌱 Atualmente estudando **Ruby, Machine Learning e Cloud**
 - 💬 Me pergunte sobre **SQL, Python, C#, PHP e Azure**
+- 📊 Tenho grande interesse em **Dados, Business Intelligence, Automação e Desenvolvimento Web**
+- 📫 Entre em contato comigo através do e-mail **alexandre.vegas@hotmail.com**
+- 📄 Conheça minha trajetória profissional pelo [LinkedIn](https://www.linkedin.com/in/alexandre-vegas-789863207)
 
-- 📫 Você pode entrar em contato comigo pelo e-mail **alexandre.vegas@hotmail.com**
+---
 
-- 📄 Conheça minhas experiências profissionais através do meu [LinkedIn](https://www.linkedin.com/in/alexandre-vegas-789863207)
+<div align="center">
 
-<h3 align="left">Conecte-se comigo:</h3>
+### 🌐 Conecte-se comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexandre-vegas-789863207" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/alexandre-vegas-789863207">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<h3 align="left">Linguagens e Tecnologias:</h3>
+<a href="mailto:alexandre.vegas@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
 
-<p align="left">
+<a href="https://github.com/AlexandreVegas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
+</div>
 
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="C#"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="PHP"
-      width="40"
-      height="40"
-    />
-  </a>
+<div align="center">
 
-  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="Ruby"
-      width="40"
-      height="40"
-    />
-  </a>
+### 🚀 Linguagens e Tecnologias
 
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
-      alt="Azure"
-      width="40"
-      height="40"
-    />
-  </a>
+<img
+  src="https://skillicons.dev/icons?i=php,laravel,py,cs,ruby,postgres,mysql,azure,git,github,vscode,powershell&theme=dark&perline=6"
+/>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
-    alt="SQL"
-    width="40"
-    height="40"
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 Dados & Business Intelligence
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚙️ Desenvolvimento
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Estatísticas do GitHub
+
+<img
+  height="180em"
+  src="https://github-stats-extended.vercel.app/api?username=AlexandreVegas&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexandreVegas&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🔥 Sequência de contribuições
+
+<img
+  src="https://streak-stats.demolab.com?user=AlexandreVegas&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Atividade no GitHub
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreVegas&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlexandreVegas/AlexandreVegas/output/github-contribution-grid-snake-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlexandreVegas/AlexandreVegas/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/AlexandreVegas/AlexandreVegas/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Atualmente
+
+🌱 Aprendendo **Ruby • Machine Learning • Cloud**
+
+💡 Construindo soluções utilizando **Dados, Automação e Desenvolvimento de Software**
+
+<br>
+
+⭐ Sempre buscando transformar dados e ideias em soluções reais.
+
+</div>
