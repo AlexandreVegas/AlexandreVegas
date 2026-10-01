@@ -96,57 +96,6 @@
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexandreVegas&layout=compact&theme=tokyonight&hide_border=true"
 />
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 🔥 Sequência de contribuições
-
-<img
-  src="https://streak-stats.demolab.com?user=AlexandreVegas&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Atividade no GitHub
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreVegas&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Minhas contribuições
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AlexandreVegas/AlexandreVegas/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AlexandreVegas/AlexandreVegas/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/AlexandreVegas/AlexandreVegas/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Atualmente
